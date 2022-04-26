@@ -20,3 +20,6 @@ cliente.dependentes.push({
 const filhaMaisNova = cliente.dependentes.filter(dependente => dependente.dataNascimento==="14/05/2017")
 
 console.log(filhaMaisNova[0].nome)
+
+
+console.log(cliente)
